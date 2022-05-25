@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Monday",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quisquam commodi ex officia nemo ratione earum fuga laborum possimus cum."
+    },
+    {
+        "id": 2,
+        "title": "Tuesday",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quisquam commodi ex officia nemo ratione earum fuga laborum possimus cum."
+    },
+    {
+        "id": 3,
+        "title": "Wednesday",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quisquam commodi ex officia nemo ratione earum fuga laborum possimus cum."
+    },
+    {
+        "id": 4,
+        "title": "Thursday",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quisquam commodi ex officia nemo ratione earum fuga laborum possimus cum."
+    },
+    {
+        "id": 5,
+        "title": "Friday",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quisquam commodi ex officia nemo ratione earum fuga laborum possimus cum."
+    },
+    {
+        "id": 6,
+        "title": "Saturday",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum quisquam commodi ex officia nemo ratione earum fuga laborum possimus cum."
+    }
+]
